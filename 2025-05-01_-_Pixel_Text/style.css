@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: monospace;
+}
+
+.text{
+    padding: 20px;
+    background: black;
+}
+
+.line{
+    display: flex;
+}
+
+.block{
+    width: 20px;
+    height: 20px;
+    margin: 1px;
+    border-radius: 2px;
+}
+
+.input-text{
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid black;
+    border-radius: 5px;
+    outline: none;
+    width: 300px;
+}
